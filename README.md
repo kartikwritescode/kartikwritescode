@@ -24,4 +24,8 @@ Hi👋,I'm Kartik Kumar, a 1st-year Computer Science student and GDG Core Member
 ---
 [![](https://visitcount.itsvg.in/api?id=kartikkumarofficial&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+[![Kartik Kumar profile views](https://u8views.com/api/v1/github/profiles/171732678/views/day-week-month-total-count.svg)](https://u8views.com/github/kartikkumarofficial)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

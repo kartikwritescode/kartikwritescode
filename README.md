@@ -1,4 +1,4 @@
-<h1>Kartik Kumar</h1><br>
+<h1>Kartik Kumar</h1>
 App dev by day, bug hunter by night 🐛<br>
 Crafting UIs that don’t crash (usually) with Dart and Flutter<br>
 Powered by Firebase, backed by Supabase, version-controlled with love via Git and GitHub<br><br>

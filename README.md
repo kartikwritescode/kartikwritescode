@@ -1,9 +1,11 @@
 <h1>Kartik Kumar</h1>
-App dev by day, bug hunter by night 🐛<br>
-Crafting UIs that don’t crash (usually) with Dart and Flutter<br>
-Powered by Firebase, backed by Supabase, version-controlled with love via Git and GitHub<br><br>
-Sometimes I whisper to my terminal and it listens<br>
-Also touched Python once. It bit me. Still healing 🐍<br><br>
+App dev by day 💻, bug hunter by night 🐛 <br>
+Crafting UIs that don’t crash (usually) with Dart 🎯 and Flutter 🧩 <br>
+Powered by Firebase 🔥, backed by Supabase 🚀, version-controlled with love via Git 🧪 and GitHub 🐙 <br>
+
+Sometimes I whisper to my terminal 💬 and it listens <br>
+Also touched Python once 🐍. It bit me. Still healing <br>
+
 Fun Fact ⚡<br>
 I measure time in commits and coffee ☕ → git push && sip
 
@@ -25,7 +27,7 @@ I measure time in commits and coffee ☕ → git push && sip
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkumarofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=kartikkumarofficial&theme=onedark&row=1&margin-w=10&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kartikkumarofficial&theme=darkhub&no-bg=true&no-frame=false&row=1&margin-w=10)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kartikkumarofficial&limit=5&theme=dark&combine_all_yearly_contributions=true)

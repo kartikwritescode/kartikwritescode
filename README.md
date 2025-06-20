@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1>Kartik Kumar</h1><br>
 App dev by day, bug hunter by night 🐛<br>
 Crafting UIs that don’t crash (usually) with Dart and Flutter<br>

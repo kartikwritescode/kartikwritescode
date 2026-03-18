@@ -28,7 +28,8 @@ I measure time in commits and coffee ☕ → git push && sip
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkumarofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=kartikkumarofficial&theme=darkhub&no-bg=true&no-frame=false&row=1&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kartikkumarofficial&no-bg=true&margin-w=10)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kartikkumarofficial&limit=5&theme=dark&combine_all_yearly_contributions=true)

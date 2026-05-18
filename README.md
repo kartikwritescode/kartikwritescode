@@ -31,28 +31,10 @@ class KartikKumar:
     role = "Flutter Developer & AI/ML Explorer"
     education = "3rd Year B.Tech CSE @ Maharishi Markandeshwar (Deemed to be University)"
     
-    currently_working_on = [
-        "Deep Learning",
-        "Generative AI",
-        "Scalable Flutter Applications",
-        "Real-world AI integrated products"
-    ]
+    currently_working_on = ["Deep Learning", "Generative AI", "Scalable Flutter Applications"]
+    interests = ["Mobile App Development", "Machine Learning", "Deep Learning" ]
 
-    interests = [
-        "Mobile App Development",
-        "Machine Learning",
-        "Deep Learning"
-    ]
-
-    ask_me_about = [
-        "Flutter",
-        "Firebase",
-        "Supabase",
-        "Java",
-        "Python",
-        "AI/ML"
-    ]
-
+    ask_me_about = ["Flutter", "Firebase", "Supabase", "Java", "Python", "AI/ML" ]
     fun_fact = "I measure progress in commits, coffee, and successful deployments ☕"
 ```
 
@@ -142,17 +124,7 @@ A smart rental platform built using Flutter with authentication, booking systems
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=kartikkumarofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</td>
 
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkumarofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</td>
-</tr>
-</table>
 
 <img src="https://streak-stats.demolab.com/?user=kartikkumarofficial&theme=tokyonight&hide_border=true&background=0D1117" />
 

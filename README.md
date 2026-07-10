@@ -14,9 +14,9 @@
 
 <br/>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kartikkumarofficial&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/kartikkumarofficial)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kartikwritescode&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/kartikwritescode)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kartikkumarofficial&color=blue&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=kartikwritescode&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -98,7 +98,7 @@ A caregiving-focused Flutter application designed to simplify elderly assistance
 
 **Tech:** Flutter · GetX · Supabase · Google Maps
 
-[![View Project](https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikkumarofficial/elder_care)
+[![View Project](https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikwritescode/elder_care)
 
 </td>
 
@@ -110,7 +110,7 @@ A smart rental platform built using Flutter with authentication, booking systems
 
 **Tech:** Flutter · Supabase · Cloudinary
 
-[![View Project](https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikkumarofficial/RentRover)
+[![View Project](https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikwritescode/RentRover)
 
 </td>
 </tr>
@@ -126,11 +126,11 @@ A smart rental platform built using Flutter with authentication, booking systems
 
 
 
-<img src="https://streak-stats.demolab.com/?user=kartikkumarofficial&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com/?user=kartikwritescode&theme=tokyonight&hide_border=true&background=0D1117" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikkumarofficial&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikwritescode&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
 
 </div>
 
@@ -140,7 +140,7 @@ A smart rental platform built using Flutter with authentication, booking systems
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kartikkumarofficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=kartikwritescode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
 
